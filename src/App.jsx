@@ -2,7 +2,7 @@ import Message from './message'
 
 function App () {
   rertun (
-     <div>
+     <div id = 'root'>
     <Message />
   </div> 
   );
